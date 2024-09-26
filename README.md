@@ -8,6 +8,12 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐊𝐆 𝐓𝐄𝐂𝐇-blue.svg?style=for-the-badge&logo=github"></a>
 <p/>
+
+<p align="center">
+  <a href="https://kg-site-support.vercel.app/">
+    <img src="https://img.shields.io/badge/KG WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+  </a>
+
 <p align="center">
 <a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
@@ -24,8 +30,8 @@
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
-<a href="https://kerm-lite.onrender.com/code"><img src="https://img.shields.io/badge/PAIR_CODE-yellow" alt="Click Here to Get Pair-Code" width="110"></a>   
-<a href="https://kerm-lite.onrender.com/qr"><img src="https://img.shields.io/badge/QR CODE-yellow" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://extreme-dalia-arolsarl-9b533ba0.koyeb.app/code"><img src="https://img.shields.io/badge/PAIR_CODE-yellow" alt="Click Here to Get Pair-Code" width="110"></a>   
+
 ## How To Deploy On Panel.
  [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/3BxpOEO1Xxg?si=TtceW2eks_btVG-F)
 
@@ -79,7 +85,7 @@
 
 <br>
 
-* [`RAYAN`](https://wa.me/237656520674?text=Hi+Bro+Rayan+Big+Fan😍)
+* [`RAYAN`](https://wa.me/237659535227?text=Hi+Bro+Rayan+Big+Fan😍)
 * [`GIFFARENO`](https://wa.me/237650564445?text=Hi+Bro+Giffareno+Big+Fan😍)
  </details>
 
