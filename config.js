@@ -18,7 +18,7 @@ module.exports = {
    // String Values
    SESSION_ID: process.env.SESSION_ID || "Session~Vkuqqmg0", // Put your session
    HANDLERS: process.env.HANDLER === "false" || process.env.HANDLER === "null" ? "^" : "[.]",
-   BOT_INFO: process.env.BOT_INFO || "Kɢᴛᴇᴄʜ;KᴇʀᴍLɪᴛᴇ⚡️", // YourName;BotName;Image/VideoLink
+   BOT_INFO: process.env.BOT_INFO || "Joker;KMGbot", // YourName;BotName;Image/VideoLink
    SUDO: process.env.SUDO || "237693132795",
    PRESENCE: process.env.PRESENCE || "available", // "unavailable", "available", "composing", "recording", "paused"
    CAPTION: process.env.CAPTION || "© Kᴇʀᴍ ᴍᴅ",
